@@ -1,15 +1,16 @@
 field,display_name,browse_link,external_link
 title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
+alternative_form,Alternative Form,
+term_type,Term Type,true
+language,Language,
+establish_date,Date Established,
+terminate_date,Date Terminated,
+birth_date,Birth Date,
+death_date,Death Date,
+location,Location,
+usage,Usage,
+related_term,Related Term,true
+exact_match,Exact Match,,true
+source,Source,
 format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
+rights,Rights,,true
